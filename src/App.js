@@ -262,7 +262,7 @@
             </label>
             <input type="submit" value="Submit" />
           </form>
-            <div>
+            <div class="grid-container">
               <div id="HoustanOrlando">Played For Houston Rockets and Orlando Magic</div>
               <div id="WarriorsOrlando">Played for Golden State Warriors and Orland Magic</div>
               <div id="BlocksOrlando">Averaged more than 2.5 blocks and played for the Orlando Magic</div>
